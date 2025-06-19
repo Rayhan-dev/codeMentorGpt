@@ -1,1 +1,46 @@
-# codeMentorGpt
+# Todo  (codeMentorGPT)
+
+- [ ] Project Setup
+- [ ] Monaco Editor Integration
+- [ ] Build Local AI Chat MVP  
+- [ ] Code Runner Backend  
+- [ ] Setup Auth Backend 
+- [ ] Add Auth to Frontend
+- [ ] Database: Session + Chat Models 
+- [ ] Session Api Routes 
+- [ ] FrontEnd Integration
+- [ ] Test
+- [ ] WebSocket Server Setup
+- [ ] Session Room Logic
+- [ ] Realtime code syncing 
+- [ ] Cursor Sharing
+- [ ] Session Permission in DB
+- [ ] Shared AI context
+- [ ] TEst + UX polishing
+- [ ] Chose And setup Local Model
+- [ ] Run inference Locally
+- [ ] Backend API integration
+- [ ] Prompt engineering and token management 
+- [ ] Performace and deployment considerations
+- [ ] Testing
+- [ ] Generate Embeddings
+- [ ] Store enbedding in vector DB
+- [ ] Query vector DB on AI request
+- [ ] Retrival augmented Generation 
+- [ ] Backend API changes
+- [ ] Frontend UI imporvements
+- [ ] Extract and prepare dataset
+- [ ] Chose Base Model
+- [ ] Setup fine tuning environment 
+- [ ] Fine tune model 
+- [ ] Evaluate and iterate 
+- [ ] Integrate Fine tuned Model
+- [ ] Containerize app
+- [ ] GPU enabled Inference 
+- [ ] Configure reverse proxy and load balancer 
+- [ ] CI/CD
+- [ ] Add monitoring and logging 
+- [ ] Secrets and configuration management 
+- [ ] optimize for scalablity 
+- [ ] AI Debugger Agent (Multi-Agent + Static Analysis) 
+- [ ] Business Mode – SaaS Features & Monetization
